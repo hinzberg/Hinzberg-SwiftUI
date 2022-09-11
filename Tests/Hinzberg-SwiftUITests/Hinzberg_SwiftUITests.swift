@@ -1,4 +1,5 @@
 import XCTest
+import SwiftUI
 @testable import Hinzberg_SwiftUI
 
 final class Hinzberg_SwiftUITests: XCTestCase {
