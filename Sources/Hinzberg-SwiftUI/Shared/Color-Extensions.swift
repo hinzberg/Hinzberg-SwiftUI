@@ -124,12 +124,64 @@ extension Color {
     public static var lightBlue : Color {
         return Color.fromRGB(r: 154, g: 203, b: 255)
     }
-    
-    public static var cocoaBlue : Color {
-        return Color.fromRGB(r: 82, g: 94, b: 145)
+
+    public static var veryPeri : Color {
+        return Color.fromRGB(r: 102, g: 103, b: 171)
     }
 
-    public static var cocoaLightBlue : Color {
-        return Color.fromRGB(r: 222, g: 229, b: 246)
+    public static var paradisePink : Color {
+        return Color.fromRGB(r: 230, g: 62, b: 98)
+    }
+
+    public static var greenbriar : Color {
+        return Color.fromRGB(r: 75, g: 155, b: 105)
+    }
+
+    public static var anthracite : Color {
+        return Color.fromRGB(r: 40, g: 40, b: 45)
+    }
+
+    public static var drewberry : Color {
+        return Color.fromRGB(r: 139, g: 85, b: 155)
+    }
+
+    public static var treetop : Color {
+        return Color.fromRGB(r: 71, g: 106, b: 48)
+    }
+
+    public static var cloudDancer : Color {
+        return Color.fromRGB(r: 240, g: 238, b: 233)
+    }
+
+    public static var eggshellBlue : Color {
+        return Color.fromRGB(r: 158, g: 203, b: 200)
+    }
+
+    public static var graniteGreen : Color {
+        return Color.fromRGB(r: 134, g: 162, b: 147)
+    }
+
+    public static var plazaTaupe : Color {
+        return Color.fromRGB(r: 174, g: 163, b: 147)
+    }
+
+    public static var volcanicGlass : Color {
+        return Color.fromRGB(r: 97, g: 92, b: 97)
+    }
+
+    public static var whiteSand : Color {
+        return Color.fromRGB(r: 236, g: 233, b: 228)
+    }
+
+    public static var ashleighBlue : Color {
+        return Color.fromRGB(r: 107, g: 134, b: 170)
+    }
+
+    public static var amethystOrchid : Color {
+        return Color.fromRGB(r: 146, g: 106, b: 166)
+    }
+
+    public static var sageGarden : Color {
+        return Color.fromRGB(r: 127, g: 171, b: 112)
     }
 }

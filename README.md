@@ -2,6 +2,9 @@
 
 ##  A SwiftUI Package - Helper Classes for macOS / iOS
 
+**2026-08-25**
+- Additional Color Extensions added
+
 **2022-08-14**
 - DualTextInputView added
 - Documentation upadated
